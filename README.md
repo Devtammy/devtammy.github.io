@@ -1,3 +1,3 @@
 # devtammy.github.io
-- Personal site
+- Portfolio site
 - Still in progress
